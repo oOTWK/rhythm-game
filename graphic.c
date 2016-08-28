@@ -158,5 +158,3 @@ int update_frame(short new_dot)
 	}
 	return curr_speed;
 }
-
-
