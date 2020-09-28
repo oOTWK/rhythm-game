@@ -13,7 +13,7 @@ the dots will be eliminated and produce correspoding sound. Moreover, a score of
 final scoreboard. If the input is incorrect or the dots are not eliminated after they reach the bottom 
 of the screen, the socre will be deducted.
 
-The game speed is increased or decreased based on corrrectness of user's input. 
+The game speed is increased or decreased based on correctness of user's input. 
 
 When the game is not been playing, the LEDs are turned on and the audio codec produces sound based on
 inputs from PS/2 keyboard. When the game is been playing, the LEDs are turned off and the audio codec
