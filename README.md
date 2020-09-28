@@ -33,7 +33,7 @@ only produces sound on the valid inputs.
 
 
 ## Difficulties
-Since the game speed is increased or decreased based on corrrectness of user's input, it was challenging
+Since the game speed is increased or decreased based on correctness of user's input, it was challenging
 to handle multiple interrupts. Originally, I used timer interrupt with dynamic quantum (the period of timer 
 interrupt keeps changing over time) to update the graphical frame. PS/2 keyboard interrupt was also used to 
 respond to user's input. To show a smooth interaction between user and the game, PS/2 keyboard interrupt had 
